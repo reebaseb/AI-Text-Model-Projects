@@ -1,0 +1,1 @@
+Summarize this for an eight-grade student as a tweet of 280 characters:\n{text}
